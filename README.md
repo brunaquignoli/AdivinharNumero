@@ -1,5 +1,5 @@
-# Jogo de advinhar número secreto
-Site com mini-jogo para advinhar um número, feito com HTML, CSS e JavaScript!
+# Jogo de adivinhar número secreto
+Site com mini-jogo para adivinhar um número, feito com HTML, CSS e JavaScript!
 
 - [Sobre o mini-jogo](#sobre-o-mini-jogo)
 - [Exemplo de como jogar](#exemplo-de-como-jogar)
