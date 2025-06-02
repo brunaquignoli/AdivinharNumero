@@ -1,9 +1,9 @@
 # Jogo de adivinhar número secreto
 Site com mini-jogo para adivinhar um número, feito com HTML, CSS e JavaScript!   
-#
-[Clique aqui para jogar](https://brunaquignoli.github.io/adivinharNumero/)
-#
 
+## Jogue ele aqui:
+[Clique aqui para jogar](https://brunaquignoli.github.io/adivinharNumero/)
+##
 - [Sobre o mini-jogo](#sobre-o-mini-jogo)
 - [Exemplo de como jogar](#exemplo-de-como-jogar)
 
