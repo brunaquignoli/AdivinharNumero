@@ -24,5 +24,5 @@ O funcionamento é simples:
 > Não sendo 8 também, o jogo indica que o número é menor do que este. Sendo maior do que 5 e menor do que 8, tínhamos 2 possibilidades. Foi inserido o número 6.
 ![Screenshot 2025-06-02 012200](https://github.com/user-attachments/assets/129a7614-b670-423e-9d30-9c23f2ee9ba6)
 #
-> O jogo indica que o número 6 é o correto, e mostra o tanto de tentativas utilizadas até acertarmos.
+> O jogo indica que o número 6 é o correto, e mostra o tanto de tentativas utilizadas até acertarmos. O botão de "Novo jogo" também é habilitado, permitindo que o usuário jogue novamente!
 ![Screenshot 2025-06-02 012209](https://github.com/user-attachments/assets/fb951efe-823f-45b1-af22-1dd1a509188d)
