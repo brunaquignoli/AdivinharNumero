@@ -1,5 +1,8 @@
 # Jogo de adivinhar número secreto
-Site com mini-jogo para adivinhar um número, feito com HTML, CSS e JavaScript!
+Site com mini-jogo para adivinhar um número, feito com HTML, CSS e JavaScript!   
+#
+[Clique aqui para jogar](https://brunaquignoli.github.io/adivinharNumero/)
+#
 
 - [Sobre o mini-jogo](#sobre-o-mini-jogo)
 - [Exemplo de como jogar](#exemplo-de-como-jogar)
@@ -11,7 +14,7 @@ O funcionamento é simples:
 > 3. O jogo verifica se você acertou:  
 >    Se **acertar**, uma mensagem de acerto aparece e o botão "Novo jogo" possibilita que você jogue novamente.  
 >    Se **errar**, o jogo dá uma dica: se o número secreto é maior ou menor que o número inserido.  
-> 4. O número secreto **não se repete** até que todos os outros já tenham sido sorteados, ou seja, se um número cair uma vez, ele não cairá novamente até que todos os outros sejam escolhidos também como número secreto!
+> 4. O número secreto **não se repete** até que todos os outros já tenham sido sorteados, ou seja, se um número cair uma vez, ele não cairá novamente até que todos os outros sejam escolhidos também como número secreto!  
 
 
 # Exemplo de como jogar
