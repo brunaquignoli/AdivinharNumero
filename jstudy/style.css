@@ -78,6 +78,11 @@ button:disabled {
     gap: 2em;
 }
 
+.container__botoes button:hover{
+    transform: scale(1.03);
+      transition: all 0.3s ease;
+}
+
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
