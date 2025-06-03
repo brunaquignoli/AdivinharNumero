@@ -9,12 +9,12 @@ Mini-jogo para adivinhar um número, feito com HTML, CSS e JavaScript!
 
 # Sobre o mini-jogo:
 O funcionamento é simples:
-> 1. Escolha um número entre **1 e 10**.
-> 2. Insira o número na caixa (ou, também pode ir apertando nas setinhas pra cima e para baixo que se encontram ali dentro).
-> 3. O jogo verifica se você acertou:  
->    Se **acertar**, uma mensagem de acerto aparece e o botão "Novo jogo" possibilita que você jogue novamente.  
->    Se **errar**, o jogo dá uma dica: se o número secreto é maior ou menor que o número inserido.  
-> 4. O número secreto **não se repete** até que todos os outros já tenham sido sorteados, ou seja, se um número cair uma vez, ele não cairá novamente até que todos os outros sejam escolhidos também como número secreto!  
+ 1. Escolha um número entre **1 e 10**.
+ 2. Insira o número na caixa (ou, também pode ir apertando nas setinhas pra cima e para baixo que se encontram ali dentro).
+ 3. O jogo verifica se você acertou:  
+   Se **acertar**, uma mensagem de acerto aparece e o botão "Novo jogo" possibilita que você jogue novamente.  
+    Se **errar**, o jogo dá uma dica: se o número secreto é maior ou menor que o número inserido.  
+ 4. O número secreto **não se repete** até que todos os outros já tenham sido sorteados, ou seja, se um número cair uma vez, ele não cairá novamente até que todos os outros sejam escolhidos também como número secreto!  
 
 
 # Exemplo de como jogar
